@@ -1,10 +1,15 @@
 # HanZi-AllStats
 (Working)
 Step1.Define hanzi range
+
 Step2.get ids
+
 20250916 update - it's too f**king huge!!! So i simplify it to 8105 normal hanzis.
+
 EVEN some domestic company has tiny mistakes in some rare hanzi...
+
 Now i've already complete all define of parts and try to run again.
+
 DAMN IT HAS 5000+ NOT CORRECTLY MATCH I SHOULD CHECK TWICE!!!
 
 Step3.get pronunciation
