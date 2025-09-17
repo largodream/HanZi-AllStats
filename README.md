@@ -12,6 +12,10 @@ Now i've already complete all define of parts and try to run again.
 
 DAMN IT HAS 5000+ NOT CORRECTLY MATCH I SHOULD CHECK TWICE!!!
 
+20250917 update
+
+Now there's only 1400+ mistakes should be fix, finally this section will be done.
+
 Step3.get pronunciation
 
 Step4.operate
