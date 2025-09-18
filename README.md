@@ -16,6 +16,10 @@ DAMN IT HAS 5000+ NOT CORRECTLY MATCH I SHOULD CHECK TWICE!!!
 
 Now there's only 1400+ mistakes should be fix, finally this section will be done.
 
+20250919 update 
+
+Step 2 Done, fuck baidu.com
+
 Step3.get pronunciation
 
 Step4.operate
