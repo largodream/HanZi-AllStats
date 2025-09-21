@@ -252,7 +252,7 @@
 侹	ing
 便	ian
 促	u
-俄	
+俄	e
 俅	iu
 俊	un
 俍	iang,ang
@@ -643,7 +643,7 @@
 卺	in
 卿	ing
 厂	ang,an
-厄	
+厄	e
 厅	ing
 历	i
 厉	i
@@ -756,7 +756,7 @@
 吽	ou,ong
 吾	u
 呀	a
-呃	ai
+呃	ai,e
 呆	ai
 呇	i,en
 呈	eng
@@ -855,7 +855,7 @@
 哟	o
 哢	a
 哥	e
-哦	
+哦	o,e
 哧	i
 哨	ao
 哩	i
@@ -901,7 +901,7 @@
 啄	uo
 商	ang
 啉	in
-啊	
+啊	a
 啐	i,ui
 啕	ao
 啖	an
@@ -978,7 +978,7 @@
 嗪	in
 嗫	ie
 嗬	e
-嗯	g
+嗯	g,
 嗲	ia
 嗳	ai
 嗵	ong
@@ -1021,10 +1021,10 @@
 噘	ue
 噙	in
 噜	u
-噢	u,ao
+噢	o,u,ao
 噤	in
 器	i
-噩	
+噩	e
 噪	ao
 噫	ai,i
 噬	i
@@ -1157,7 +1157,7 @@
 垤	ie
 垦	en
 垧	ang
-垩	a,eng
+垩	e,a,eng
 垫	ian
 垭	a
 垮	ua
@@ -1218,7 +1218,7 @@
 堡	ao,u
 堤	i
 堧	uan,uo
-堨	ai,e
+堨	e,ai
 堪	an
 堰	an
 堲	i
@@ -1385,7 +1385,7 @@
 姬	i
 姮	eng
 姱	ua,u
-姶	a
+姶	e,a
 姹	a
 姻	in
 姽	ui,a
@@ -1407,7 +1407,7 @@
 娟	uan
 娠	en
 娣	i
-娥	
+娥	e
 娩	ian
 娱	u
 娲	a
@@ -1415,7 +1415,7 @@
 娵	u
 娶	u
 娼	ang
-婀	
+婀	e
 婆	o
 婉	an
 婊	iao
@@ -1629,7 +1629,7 @@
 屐	i
 屑	ie
 展	an
-屙	
+屙	e
 属	u
 屠	u
 屡	ü
@@ -1691,7 +1691,7 @@
 峥	eng
 峦	uan
 峧	iao
-峨	
+峨	e
 峪	u
 峭	iao
 峰	eng
@@ -1725,7 +1725,7 @@
 崶	eng
 崽	ai
 崾	ao
-崿	
+崿	e
 嵁	an
 嵅	an
 嵇	i
@@ -2056,7 +2056,7 @@
 息	i
 恰	ia
 恳	en
-恶	u
+恶	u,e
 恸	ong
 恹	an
 恺	ai
@@ -2137,7 +2137,7 @@
 意	i
 愐	ian
 愔	in
-愕	
+愕	e
 愚	u
 感	an
 愠	un
@@ -2256,7 +2256,7 @@
 扶	u
 批	i
 扺	i
-扼	
+扼	e
 扽	en
 找	ao
 承	eng
@@ -3407,7 +3407,7 @@
 涌	ong
 涍	iao
 涎	ian
-涐	
+涐	e
 涑	u
 涓	uan
 涔	en
@@ -4480,7 +4480,7 @@
 砮	u
 砰	eng
 破	o
-砵	o
+砵	e,o
 砷	en
 砸	a
 砹	ai
@@ -5281,7 +5281,7 @@
 胴	ong
 胶	iao
 胸	iong
-胺	an
+胺	an,e
 胼	ian
 能	eng
 脂	i
@@ -5314,7 +5314,7 @@
 腈	ing
 腊	a,i
 腋	e
-腌	an
+腌	an,a
 腐	u
 腑	u
 腒	u
@@ -5329,7 +5329,7 @@
 腧	u
 腨	uan
 腩	an
-腭	
+腭	e
 腮	ai
 腯	u,un
 腰	ao
@@ -5479,7 +5479,7 @@
 苇	ei
 苈	i
 苉	i
-苊	
+苊	e
 苋	ian
 苌	ang
 苍	ang
@@ -5604,7 +5604,7 @@
 莠	ou
 莨	iang,ang
 莩	u,iao
-莪	
+莪	e
 莫	o,u
 莰	an
 莱	ai
@@ -5671,7 +5671,7 @@
 萳	an
 萸	u
 萹	ian
-萼	
+萼	e
 落	uo,a,ao
 葆	ao
 葎	ü
@@ -5903,7 +5903,7 @@
 蛴	i
 蛸	ao,iao
 蛹	ong
-蛾	i
+蛾	e,i
 蜀	u
 蜂	eng
 蜃	en
@@ -6177,7 +6177,7 @@
 讶	a
 讷	e
 许	u
-讹	
+讹	e
 论	un
 讻	iong
 讼	ong
@@ -6265,7 +6265,7 @@
 谑	ue
 谒	e
 谓	ei
-谔	
+谔	e
 谕	u
 谖	uan
 谗	an
@@ -6535,7 +6535,7 @@
 轪	ai
 轫	en
 转	uan,uai
-轭	
+轭	e
 轮	un
 软	uan
 轰	ong
@@ -6674,7 +6674,7 @@
 遆	i
 遇	u
 遍	ian
-遏	
+遏	e
 遐	ia
 遑	uang
 遒	iu
@@ -6763,7 +6763,7 @@
 郾	an
 郿	ei
 鄀	uo
-鄂	
+鄂	e
 鄃	u
 鄄	uan
 鄅	u
@@ -6988,7 +6988,7 @@
 锄	u
 锅	uo
 锆	ao
-锇	ie
+锇	ie,e
 锈	iu
 锉	uo
 锊	üe
@@ -7002,7 +7002,7 @@
 锒	ang
 锓	in
 锔	u
-锕	
+锕	e,a
 锖	iang
 锗	e
 锘	uo
@@ -7035,7 +7035,7 @@
 锴	ai
 锵	iang
 锶	i
-锷	
+锷	e
 锸	a
 锹	iao
 锺	ong
@@ -7136,7 +7136,7 @@
 阌	en
 阍	un
 阎	an
-阏	an
+阏	e,an
 阐	an
 阑	an
 阒	u
@@ -7161,7 +7161,7 @@
 阻	u
 阼	uo
 阽	ian,an
-阿	
+阿	a,e
 陀	uo
 陂	o,i,ei
 附	u
@@ -7354,10 +7354,10 @@
 颗	e
 题	i
 颙	ong,u
-颚	
+颚	e
 颛	uan
 颜	an
-额	
+额	e
 颞	ie
 颟	an
 颠	ian
@@ -7411,7 +7411,7 @@
 饻	i
 饼	ing
 饽	o
-饿	
+饿	e
 馁	ei
 馃	uo
 馄	un
@@ -7624,7 +7624,7 @@
 鳁	en
 鳂	ei
 鳃	ai
-鳄	
+鳄	e
 鳅	iu
 鳇	uang
 鳈	uan
@@ -7692,7 +7692,7 @@
 鹂	i
 鹃	uan
 鹄	e,u
-鹅	
+鹅	e
 鹆	u
 鹇	ian
 鹈	i
@@ -7709,7 +7709,7 @@
 鹔	u
 鹕	u
 鹖	e
-鹗	
+鹗	e
 鹘	u
 鹙	iu
 鹚	i
@@ -7919,7 +7919,7 @@
 𤧛	i
 𤩽	uan,e,an
 𤫉	ie
-𥔲	
+𥔲	e
 𥕢	ao
 𥖨	ao
 𥻗	a
@@ -7954,7 +7954,7 @@
 𫄨	i
 𫄷	i
 𫄸	un
-𫇭	ei,ua,ui
+𫇭	ei,ua,ui,e
 𫌀	i
 𫍣	ong
 𫍯	ian,an
@@ -7996,7 +7996,7 @@
 𫠊	uan
 𫠜	i
 𫢸	an,a
-𫫇	u,o
+𫫇	u,o,e
 𫭟	ou,u
 𫭢	un
 𫭼	ao
